@@ -231,3 +231,8 @@ body {
   }
 
 }
+
+.more-projects {
+  /* float: right; */
+  position: absolute
+}
